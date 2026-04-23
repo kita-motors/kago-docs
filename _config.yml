@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+title: KaGO
+description: 家計・在庫管理アプリ KaGO のドキュメント
+
+# GitHub Pages設定
+baseurl: ""
+url: ""
+
+# マークダウン設定
+markdown: kramdown
+kramdown:
+  input: GFM
